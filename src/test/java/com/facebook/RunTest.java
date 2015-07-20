@@ -13,7 +13,9 @@ import org.junit.runner.RunWith;
     //4th trial
     //5th trial
     //6th trial
-    //7th trial
+    //7th trial only test
+    // 8th mvn clean compile test
+
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features = {"C:\\Users\\Manzur\\IdeaProjects\\LoginCucumber\\src\\test\\java\\com\\facebook\\facebook.feature"}
